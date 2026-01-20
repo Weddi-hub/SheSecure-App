@@ -42,9 +42,13 @@ SheSecure - Women Safety Application
 
 lib/
 ├── models/         # User and Device data models
+
 ├── screens/        # Auth, Home, Admin, and Splash screens
+
 ├── services/       # Bluetooth, Firebase, and Theme logic
+
 ├── utils/          # Validators and Global Theme definitions
+
 └── widgets/        # Reusable UI components (Drawer, Popups, Command Panels)
 
 
