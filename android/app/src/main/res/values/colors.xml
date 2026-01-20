@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color -->
+    <color name="colorPrimary">#6A11CB</color>
+    <color name="colorPrimaryDark">#4A0D9C</color>
+    <color name="colorAccent">#9D4EDD</color>
+    <color name="colorPrimaryVariant">#4A0D9C</color>
+    <color name="colorSecondary">#2575FC</color>
+    <color name="colorSecondaryVariant">#6A98FF</color>
+
+    <!-- Status colors -->
+    <color name="errorColor">#EA4335</color>
+    <color name="successColor">#34A853</color>
+
+    <!-- Neutral colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Notification colors -->
+    <color name="notification_pressed">#DDDDDD</color>
+    <color name="notification_selected">#EEEEEE</color>
+    <color name="notification_disabled">#BBBBBB</color>
+    <color name="notification_default">#FFFFFF</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830675199832",
+    "project_id": "she2-5d1cf",
+    "storage_bucket": "she2-5d1cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830675199832:android:5618379f62c4863b22672d",
+        "android_client_info": {
+          "package_name": "com.example.she_secure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnocQ67Aey8zUr-yqERPg6PxUAzyZ0TbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
