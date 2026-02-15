@@ -51,6 +51,23 @@ lib/
 
 └── widgets/        # Reusable UI components (Drawer, Popups, Command Panels)
 
+📱 UI Screenshots:
+![loginscreen](https://github.com/user-attachments/assets/c9796cb5-4a06-4ea7-a12b-a9830c08e83e)
+![Signup with validation](https://github.com/user-attachments/assets/a8b4ce2e-52fd-41a1-8057-ac112e882524)
+![dashboard disconnected](https://github.com/user-attachments/assets/4636b558-f919-45a1-9e9a-b88469f95a69)
+![Pair Device](https://github.com/user-attachments/assets/c90115de-4b0a-4acf-aec1-c2ad04f1a447)
+![dashboard connected](https://github.com/user-attachments/assets/003cb345-ebf2-4dc5-844d-fbfda7f1be4c)
+![Dashboard listening](https://github.com/user-attachments/assets/673fe528-e780-4f4c-9a1a-004eada253c7)
+![Settings](https://github.com/user-attachments/assets/1bb7f388-8752-4337-bbbf-e508714360d4)
+![Blue theme](https://github.com/user-attachments/assets/fcf98fa8-9ca4-458e-8e41-d6efca7b0c25)
+![Pair Device blue](https://github.com/user-attachments/assets/9fb2d86a-8a59-4530-b127-902da76071cc)
+![Blue sign up screen with validation](https://github.com/user-attachments/assets/828744c3-8651-4bfb-abe0-6d8a8824761a)
+
+Hardware Pic :
+![Hardware 1](https://github.com/user-attachments/assets/f2af882e-cd05-43e3-a844-0000f7462c48)
+![Hardware on](https://github.com/user-attachments/assets/fe8dc4e0-512b-42d8-ac95-ea1118907aa1)
+
+
 
 ⚙️ Setup & Installation
 1.Clone the repository :
